@@ -3,6 +3,8 @@
 This page contains a number of independent projects that I have worked on over the past few months. 
 
 ### Consulting Work
+[Choosing Optimal Test Groups for A/B Test](https://dustinrogers.github.io/Choosing-Test-Stores.github.io/).
+
 
 ```markdown
 Syntax highlighted code block
@@ -22,7 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://dustinrogers.github.io/Choosing-Test-Stores.github.io/).
 
 ### Jekyll Themes
 
