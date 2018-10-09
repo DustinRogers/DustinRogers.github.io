@@ -5,3 +5,4 @@ This page contains a number of independent projects that I have worked on over t
 
 ### Consulting Work
 [Choosing Optimal Test Groups for A/B Tests in R](https://dustinrogers.github.io/Choosing-Test-Stores)
+[Variable Reduction - Sales Prediction Project in R](https://dustinrogers.github.io/Predicting-Sales-From-Weather)
