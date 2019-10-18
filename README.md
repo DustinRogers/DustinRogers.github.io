@@ -7,5 +7,6 @@ Hi, my name is Dustin Rogers and thanks for looking at my  data analysis portfol
 ### Consulting Projects     
 [Variable Reduction - Sales Prediction Project in R](https://dustinrogers.github.io/Predicting-Sales-From-Weather)       
 [Determining Sample Size - Power Analysis](https://dustinrogers.github.io/Choosing-Sample-Size)                     
-[Choosing Optimal Test Groups for A/B Tests in R](https://dustinrogers.github.io/Choosing-Test-Stores)                                 
+[Choosing Optimal Test Groups for A/B Tests in R](https://dustinrogers.github.io/Choosing-Test-Stores)   
+[Creating an Ensemble Models in R](https://dustinrogers.github.io/Ensemble-Models/)
                 
