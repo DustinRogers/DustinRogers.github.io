@@ -1,2 +1,3 @@
-remote_theme:  DustinRogers/jasper
-
+remote_theme: DustinRogers/minimal-mistakes
+minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+class: wide
