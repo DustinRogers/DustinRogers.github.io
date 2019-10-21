@@ -265,7 +265,14 @@ compress_html:
   ignore:
     envs: development
 
-
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      
 defaults:
   # _pages
   - scope:
@@ -276,10 +283,4 @@ defaults:
       classes: wide
       author_profile: true
       
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      author_profile: true      
+    
