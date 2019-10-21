@@ -5,12 +5,6 @@ classes: wide
 excerpt: Welcome to my GitHub portfolio!
 header:
   overlay_image: /assets/images/Header.jpg
-  
-sidebar:
-  - title: "Dustin Rogers"
-    image: "/assets/images/Online Resume.jpeg"
-    text: "Looking for creative solutions."
-    location: "Portland, Oregon"
 ---
 
 [Resume](https://dustinrogers.github.io/online-resume/) 
