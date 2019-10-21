@@ -1,13 +1,11 @@
 ---
 title: " "
-layout: single
-classes: wide
+layout: splash
 header:
   overlay_image: /assets/images/Header.jpg
 sidebar:
   - title: "Title"
-    image: /assets/images/Online-Resume.jpeg
-    image_alt: "image"
+    image: /assets/images/Online Resume.jpeg
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
