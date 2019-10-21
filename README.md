@@ -1,8 +1,3 @@
----
-layout: splash
-author_profile: true
----
-
 ## Welcome to my GitHub portfolio!                    
 [Resume](https://dustinrogers.github.io/online-resume/)            
     
