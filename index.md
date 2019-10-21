@@ -1,9 +1,33 @@
 ---
 title: " "
-layout: splash
+layout: single
+classes: wide
 header:
   overlay_image: /assets/images/Header.jpg
 sidebar:
+  name             : "Dustin Rogers"
+  avatar           : "/assets/images/Online Resume.jpeg"
+  bio              : "Looking for creative solutions."
+  location         : "Portland, Oregon"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto: rogers.dustin@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://dustinrogers.github.io/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
   - title: "Title"
     image: /assets/images/Online Resume.jpeg
     text: "Some text here."
