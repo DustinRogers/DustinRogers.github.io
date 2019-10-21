@@ -1,6 +1,9 @@
 ---
-layout: single
-classes: wide
+---
+layout: splash
+classes:
+  - landing
+  - dark-theme
 header:
   overlay_image: /assets/images/Header.jpg
 author: author
