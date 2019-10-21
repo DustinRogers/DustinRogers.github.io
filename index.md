@@ -2,6 +2,14 @@
 layout: splash
 header:
   overlay_image: /assets/images/Header.jpg
+sidebar:
+  - title: "Title"
+    image: /assets/images/Online-Resume.jpeg
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+    nav: sidebar-sample  
 ---
 
 ## Welcome to my GitHub portfolio!  
