@@ -1,6 +1,7 @@
 ---
 layout: single
 classes: wide
+author: author
 header:
   overlay_image: /assets/images/Header.jpg
 ---
