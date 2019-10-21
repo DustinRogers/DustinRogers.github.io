@@ -267,16 +267,6 @@ compress_html:
 
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      classes: wide
-      author_profile: true
-      
-defaults:
   # _pages
   - scope:
       path: ""
@@ -285,3 +275,11 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
+      
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true      
