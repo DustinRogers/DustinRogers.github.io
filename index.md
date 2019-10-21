@@ -1,5 +1,7 @@
 ---
-layout: splash
+title: " "
+layout: single
+classes: wide
 header:
   overlay_image: /assets/images/Header.jpg
 sidebar:
