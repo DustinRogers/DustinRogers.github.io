@@ -1,5 +1,4 @@
 ---
-layout: splash
 header:
   image: "/assets/images/Header.jpg"
 ---
