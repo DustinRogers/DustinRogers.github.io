@@ -2,7 +2,7 @@
 layout: splash
 author_profile: true
 header:
-  image: /assets/images/image-filename.jpg
+  overlay_image: /assets/images/Header.jpg
 ---
 
 
