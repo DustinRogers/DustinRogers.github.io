@@ -4,6 +4,7 @@ title: " "
 excerpt: Welcome to my GitHub portfolio!
 header:
   overlay_image: /assets/images/Header.jpg
+toc: false  
 ---
 
 [Resume](https://dustinrogers.github.io/online-resume/) 
