@@ -16,10 +16,10 @@ logo                     : "/assets/images/Online Resume.jpeg"
 masthead_title           : " "    
 # Site Author
 author:
-  name             : "Dustin Rogers"
-  avatar           : "/assets/images/Online Resume.jpeg"
-  bio              : "Looking for creative solutions."
-  location         : "Portland, Oregon"
+  name                   : "Dustin Rogers"
+  avatar                 : "/assets/images/Online Resume.jpeg"
+  bio                    : "Looking for creative solutions."
+  location               : "Portland, Oregon"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
