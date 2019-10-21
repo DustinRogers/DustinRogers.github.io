@@ -1,6 +1,6 @@
 ---
-layout: splash
-author_profile: true
+layout: single
+classes: wide
 header:
   overlay_image: /assets/images/Header.jpg
 ---
@@ -18,3 +18,5 @@ Hi, my name is Dustin Rogers and thanks for looking at my  data analysis portfol
 [Determining Sample Size - Power Analysis](https://dustinrogers.github.io/Choosing-Sample-Size)                     
 [Choosing Optimal Test Groups for A/B Tests in R](https://dustinrogers.github.io/Choosing-Test-Stores)   
 [Creating an Ensemble Models in R](https://dustinrogers.github.io/Ensemble-Models/)
+
+
