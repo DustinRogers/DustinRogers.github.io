@@ -1,6 +1,5 @@
 ---
-layout: single
-classes: wide
+layout: splash
 author: author
 header:
   overlay_image: /assets/images/Header.jpg
