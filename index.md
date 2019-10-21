@@ -1,9 +1,6 @@
 ---
-title: " "
-
-layout: single
 classes: wide
-
+title: " "
 excerpt: Welcome to my GitHub portfolio!
 header:
   overlay_image: /assets/images/Header.jpg
