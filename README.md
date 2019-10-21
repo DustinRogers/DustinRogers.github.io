@@ -1,14 +1,3 @@
----
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      classes: wide
----
-
 ## Welcome to my GitHub portfolio!  
 
 [Resume](https://dustinrogers.github.io/online-resume/) 
