@@ -1,7 +1,7 @@
 ---
 title: " "
 
-layout:single
+layout: single
 classes: wide
 
 excerpt: Welcome to my GitHub portfolio!
