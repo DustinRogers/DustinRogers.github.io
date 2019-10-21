@@ -1,5 +1,4 @@
 ---
-layout: single
 classes: wide
 title: " "
 excerpt: Welcome to my GitHub portfolio!
