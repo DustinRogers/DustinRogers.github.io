@@ -8,7 +8,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Dustin Rogers"
 description              : "An amazing website."
 url                      : "https://dustinrogers.github.io/online-resume/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://dustinrogers.github.io/online-resume/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/Online Resume.jpeg"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://dustinrogers.github.io/"
+      url: "https://github.com/DustinRogers/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rogersdustin/"
@@ -282,6 +282,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true
@@ -295,5 +296,6 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: true
     
