@@ -9,7 +9,6 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dustin Rogers"
 description              : "An amazing website."
-logo                     : "/assets/images/Online Resume.jpeg"
 masthead_title           : " "  
 
 # breadcrumbs            : false # true, false (default)
