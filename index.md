@@ -1,4 +1,10 @@
-## Welcome to my GitHub portfolio!  
+---
+classes: wide
+title: " "
+excerpt: Welcome to my GitHub portfolio!
+header:
+  image: /assets/images/Header.jpg  
+---
 
 [Resume](https://dustinrogers.github.io/online-resume/) 
 
@@ -10,4 +16,3 @@ Hi, my name is Dustin Rogers and thanks for looking at my  data analysis portfol
 [Determining Sample Size - Power Analysis](https://dustinrogers.github.io/Choosing-Sample-Size)                     
 [Choosing Optimal Test Groups for A/B Tests in R](https://dustinrogers.github.io/Choosing-Test-Stores)   
 [Creating an Ensemble Models in R](https://dustinrogers.github.io/Ensemble-Models/)
-
