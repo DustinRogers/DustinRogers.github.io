@@ -1,8 +1,3 @@
----
-header:
-  image: "/assets/images/Header.jpg"
----
-
 ## Welcome to Dustin Rogers' GitHub Portfolio                     
 [Resume](https://dustinrogers.github.io/online-resume/)            
     
