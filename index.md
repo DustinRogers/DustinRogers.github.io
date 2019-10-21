@@ -2,7 +2,6 @@
 layout: splash
 header:
   overlay_image: /assets/images/Header.jpg
-author: author
 ---
 
 ## Welcome to my GitHub portfolio!  
