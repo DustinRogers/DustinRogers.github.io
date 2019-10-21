@@ -1,7 +1,5 @@
 ---
-layout: single
-classes: wide
-author_profile: true
+layout: splash
 header:
   image: "/assets/images/Header.jpg"
 ---
