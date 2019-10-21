@@ -2,6 +2,7 @@
 title: " "
 layout: single
 classes: wide
+excerpt: Welcome to my GitHub portfolio!
 header:
   overlay_image: /assets/images/Header.jpg
   
@@ -11,8 +12,6 @@ sidebar:
     text: "Looking for creative solutions."
     location: "Portland, Oregon"
 ---
-
-## Welcome to my GitHub portfolio!  
 
 [Resume](https://dustinrogers.github.io/online-resume/) 
 
