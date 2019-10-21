@@ -3,7 +3,7 @@ classes: wide
 title: " "
 excerpt: Welcome to my GitHub portfolio!
 header:
-  image: /assets/images/Header.jpg  
+  overlay_image: /assets/images/Header.jpg  
 ---
 
 [Resume](https://dustinrogers.github.io/online-resume/) 
