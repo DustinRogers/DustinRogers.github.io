@@ -11,7 +11,7 @@ Hi, my name is Dustin Rogers and thanks for looking at my  data analysis portfol
 
 ### Consulting Projects     
 
-[Feature Creation in R](https://dustinrogers.github.io/Feature-Creation)                               
+[Feature Creation in R](https://dustinrogers.github.io/Feature-Creation)       
 [Using ML Algorithms to Reduce Variables](https://dustinrogers.github.io/Predicting-Sales-From-Weather)       
 [Choosing Optimal Sample Sizes - Power Analysis](https://dustinrogers.github.io/Choosing-Sample-Size)                     
 [Choosing Unbiased Test and Control Groups for A/B Tests](https://dustinrogers.github.io/Choosing-Test-Stores)   
