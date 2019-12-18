@@ -65,7 +65,8 @@ google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
-
+# Google Analytics
+google_analytics: UA-154341787-1
 # Social Sharing
 twitter:
   username               :
