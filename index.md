@@ -17,5 +17,5 @@ Hi, my name is Dustin Rogers and thanks for looking at my  data analysis portfol
 [Choosing Unbiased Test and Control Groups for A/B Tests](https://dustinrogers.github.io/Choosing-Test-Stores)   
 [Creating an Ensemble Models in R](https://dustinrogers.github.io/Ensemble-Models/)
 
-### Independant Projects
+### Independent Projects
 [Using Spotipy API to Predict Song Popularity!](https://dustinrogers.github.io/Spotipy_Popularity)
