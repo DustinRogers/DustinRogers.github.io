@@ -19,3 +19,4 @@ Hi, my name is Dustin Rogers and thanks for looking at my  data analysis portfol
 
 ### Independent Projects
 [Using Spotipy API to Predict Song Popularity!](https://dustinrogers.github.io/Spotipy_Popularity)
+[Scraping websites and building animated graphs!](https://dustinrogers.github.io/Scrapy_Gifs)
