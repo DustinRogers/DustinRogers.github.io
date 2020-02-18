@@ -18,5 +18,5 @@ Hi, my name is Dustin Rogers and thanks for looking at my  data analysis portfol
 [Creating an Ensemble Models in R](https://dustinrogers.github.io/Ensemble-Models/)
 
 ### Independent Projects
-[Using Spotipy API to Predict Song Popularity!](https://dustinrogers.github.io/Spotipy_Popularity)
+[Using Spotipy API to Predict Song Popularity!](https://dustinrogers.github.io/Spotipy_Popularity)               
 [Scraping websites and building animated graphs!](https://dustinrogers.github.io/Scrapy_Gifs)
