@@ -6,8 +6,12 @@ Hi, my name is Dustin Rogers and thanks for looking at my  data analysis portfol
 
 ### Consulting Projects     
 
+[Machlne Learning Project in R](https://dustinrogers.github.io/Feature-Creation)
 [Variable Reduction - Sales Prediction Project in R](https://dustinrogers.github.io/Predicting-Sales-From-Weather)       
 [Determining Sample Size - Power Analysis](https://dustinrogers.github.io/Choosing-Sample-Size)                     
 [Choosing Optimal Test Groups for A/B Tests in R](https://dustinrogers.github.io/Choosing-Test-Stores)   
 [Creating an Ensemble Models in R](https://dustinrogers.github.io/Ensemble-Models/)
 
+### Personal Projects
+[Web Scraping and Animated Gifs in Python](https://dustinrogers.github.io/Scrapy_Gifs)
+[Spotify API - Predicting the Most Popular Beatles Songs](https://dustinrogers.github.io/Spotipy_Popularity)
