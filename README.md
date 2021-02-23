@@ -13,5 +13,5 @@ Hi, my name is Dustin Rogers and thanks for looking at my  data analysis portfol
 [Creating an Ensemble Models in R](https://dustinrogers.github.io/Ensemble-Models/)
 
 ### Personal Projects
-[Web Scraping and Animated Gifs in Python](https://dustinrogers.github.io/Scrapy_Gifs)
+[Web Scraping and Animated Gifs in Python](https://dustinrogers.github.io/Scrapy_Gifs)  
 [Spotify API - Predicting the Most Popular Beatles Songs](https://dustinrogers.github.io/Spotipy_Popularity)
